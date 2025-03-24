@@ -6,6 +6,7 @@ int main()
 	printf("inserire classe: ");
 	scanf("%d", &classe);
 	printf("Ciao GIT dalla %dCIIN", classe);
+	return 0;
 }
 
 
